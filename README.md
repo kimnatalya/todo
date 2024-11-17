@@ -1,35 +1,16 @@
-# todo
+### TODO
 
-This template should help get you started developing with Vue 3 in Vite.
+- [ ] Поменять title Vite app на TODO
+- [ ] Реализовать приложение [Figma](https://www.figma.com/design/5BF6EieJ3ZK58Vrzo5D5Y8/TODO?node-id=0-1&node-type=canvas&t=J9lNcDxxoyMbPql0-0)
+- [ ] Реализовать responsive layout до 375px
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Для самостоятельной работы
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- [ ] Добавить анимацию на появление элементов списка 
+  - [Vue transition](https://vuejs.org/guide/built-ins/transition)
+  - [Auto animation](https://auto-animate.formkit.com/#usage-vue)
+- [ ] Добавить валидацию на input [Figma](https://www.figma.com/design/5BF6EieJ3ZK58Vrzo5D5Y8/TODO?node-id=2-12&node-type=canvas&t=J9lNcDxxoyMbPql0-0)
+  - Сделать поле обязательным 
+  - Сделать максимальное количество символов в 20
+  - Сделать минимальное количество символов в 3
